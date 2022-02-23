@@ -1,4 +1,3 @@
 readme
-hahahaaha
-huhuhuhuhuhu
-hihihihihihih
+mkdir folder 
+git add folder.
