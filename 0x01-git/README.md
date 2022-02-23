@@ -1,5 +1,1 @@
-readme
-mkdir folder 
-git add .
-git commit -m 'UP_TO_DATE"
-git push
+How to be up to date in git
